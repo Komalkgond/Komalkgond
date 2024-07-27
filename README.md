@@ -1,7 +1,7 @@
 ![logo](https://github.com/Komalkgond/Komalkgond/blob/main/k.png)
 <h1 align="center">Hi 👋, I'm Komal</h1>
 <h3 align="center">A passionate QA from India</h3>
-<img align ="right " alt = "coding" : width ="400" sr = "https://www.lambdatest.com/resources/images/School-Management-Software.gif">
+<img align="right" alt= "coding" width ="400" src = "https://www.lambdatest.com/resources/images/School-Management-Software.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalkgond&label=Profile%20views&color=0e75b6&style=flat" alt="komalkgond" /> </p>
 
