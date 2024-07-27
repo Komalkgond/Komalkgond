@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalkgond&label=Profile%20views&color=0e75b6&style=flat" alt="komalkgond" /> </p>
 
-- 🔭 I am currently working in **Insightgeeks Solution Pvt Ltd.**
+- 🔭 I am currently working in **Insightgeeks Solution Pvt Ltd. as QA**
 
 - 📫 How to reach me **komalkgond@gmail.com**
 
