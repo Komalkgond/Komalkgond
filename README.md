@@ -1,3 +1,4 @@
+![logo](https://github.com/Komalkgond/Komalkgond/blob/main/k.png)
 <h1 align="center">Hi 👋, I'm Komal</h1>
 <h3 align="center">A passionate QA from India</h3>
 <img align ="right " alt = "coding" : width ="400" sr = "https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
